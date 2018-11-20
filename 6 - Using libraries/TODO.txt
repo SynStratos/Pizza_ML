@@ -1,2 +1,0 @@
--regressione lineare prima challenge
--regressione lineare seconda challenge + punti facoltativi
