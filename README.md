@@ -45,5 +45,5 @@
 	* **randomInitialize**: funzione helper
 
 * **Using Libraries**
-	Questa sezione raccoglie principalmente prove di implementazione di alcuni dei problemi precedentemente visti con funzioni già presenti in alcune tra le più note librerie di ml e di rappresentazione in grafici disponibili per il linguaggio R.
+	* Questa sezione raccoglie principalmente prove di implementazione di alcuni dei problemi precedentemente visti con funzioni già presenti in alcune tra le più note librerie di ml e di rappresentazione in grafici disponibili per il linguaggio R.
 	Non saranno per il momento descritte nel dettaglio in quanto comunque vogliono fungere solo da esempio di possibili alternative alle implementazioni presenti in questa libreria.
