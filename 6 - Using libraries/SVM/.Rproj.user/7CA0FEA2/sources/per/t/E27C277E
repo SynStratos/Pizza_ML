@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547112967075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4137848113",
+    "id" : "E27C277E",
+    "lastKnownWriteTime" : 1547118945,
+    "last_content_update" : 1547118945355,
+    "path" : "~/Machine Learning/SVM/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "14",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

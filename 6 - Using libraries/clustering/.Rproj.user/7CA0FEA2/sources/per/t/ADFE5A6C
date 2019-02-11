@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547477598550.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3666686175",
+    "id" : "ADFE5A6C",
+    "lastKnownWriteTime" : 1547474700,
+    "last_content_update" : 1547474700,
+    "path" : "~/Machine Learning/prove con \"librerie\"/clustering/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "59,21",
+        "scrollLine" : "36",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

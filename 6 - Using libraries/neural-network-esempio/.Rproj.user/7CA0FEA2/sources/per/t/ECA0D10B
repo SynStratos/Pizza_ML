@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547304966967.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2892940334",
+    "id" : "ECA0D10B",
+    "lastKnownWriteTime" : 1547309300,
+    "last_content_update" : 1547309300897,
+    "path" : "~/Machine Learning/neural-network/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "28,64",
+        "scrollLine" : "21",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
