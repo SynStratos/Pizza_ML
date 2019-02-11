@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547119100161.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "991072851",
+    "id" : "C784CB78",
+    "lastKnownWriteTime" : 1547127358,
+    "last_content_update" : 1547127358,
+    "path" : "~/Machine Learning/prove con \"librerie\"/svm-iris/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

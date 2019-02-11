@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547116550751.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1945965000",
+    "id" : "E805A69D",
+    "lastKnownWriteTime" : 1547116657,
+    "last_content_update" : 1547116657856,
+    "path" : "~/Machine Learning/SVM/gaussian_kernel.R",
+    "project_path" : "gaussian_kernel.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

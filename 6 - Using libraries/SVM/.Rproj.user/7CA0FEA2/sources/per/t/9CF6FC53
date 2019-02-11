@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547115966029.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "552855574",
+    "id" : "9CF6FC53",
+    "lastKnownWriteTime" : 1547116104,
+    "last_content_update" : 1547116104532,
+    "path" : "~/Machine Learning/SVM/linear_kernel.R",
+    "project_path" : "linear_kernel.R",
+    "properties" : {
+        "cursorPosition" : "4,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

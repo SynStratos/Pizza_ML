@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547141905826.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3540745638",
+    "id" : "3E8F5801",
+    "lastKnownWriteTime" : 1547144976,
+    "last_content_update" : 1547144976176,
+    "path" : "~/Machine Learning/prove con \"librerie\"/pca-iris/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "7,38",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
